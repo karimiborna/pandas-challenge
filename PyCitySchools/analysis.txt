@@ -1,0 +1,6 @@
+The five highest scoring schools were all charter schools and the five lowest scoring schools were all district schools.
+Math scores varied by school, but were similar between all of their grades in each school. 
+Reading scores were similar among all grades of all schools, with just about all of them averaging between 80-85%.
+Surprisingly, schools that spent more per student averaged lower scores in both math and reading with a very direct correlation.
+Small (<1000 students) and Medium (1000-2000 students) schools have very similar average scores for students across both subjects, but large schools average lower scores.
+As seen in the final table, Charter schools on average have higher scoring students than District schools.
